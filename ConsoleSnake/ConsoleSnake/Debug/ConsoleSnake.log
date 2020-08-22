@@ -1,0 +1,4 @@
+﻿  Game.cpp
+M:\vs2019\C++\ConsoleSnake\ConsoleSnake\Game.cpp(230,21): warning C4018: <: несоответствие типов со знаком и без знака
+M:\vs2019\C++\ConsoleSnake\ConsoleSnake\Game.cpp(253,20): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleSnake.vcxproj -> M:\vs2019\C++\ConsoleSnake\Debug\ConsoleSnake.exe
