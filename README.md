@@ -1,16 +1,6 @@
 # ConsoleSnake
 <!DOCTYPE html> 
 <html> 
-<head> 
-	<title></title>
-
-	<style type="text/css">
-		p
-		{
-			text-align: center;
-		}
-	</style> 
-</head>
 <body> 
 	<p>
 		<p><li style="text-align: center;">start</li></p>
